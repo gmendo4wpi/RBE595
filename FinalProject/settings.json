@@ -1,0 +1,19 @@
+{
+  "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/master/docs/settings.md",
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "ViewMode": "NoDisplay",
+  "ClockSpeed": 100,
+  "CameraDefaults": {
+    "CaptureSettings": [
+      {
+        "ImageType": 4,
+        "Width": 32,
+        "Height": 32,
+        "FOV_Degrees": 90,
+        "AutoExposureSpeed": 100,
+        "MotionBlurAmount": 0
+      }
+    ]
+  }
+}
